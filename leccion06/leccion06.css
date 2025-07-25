@@ -1,0 +1,7 @@
+body { font-family: 'Bitcount Grid Single', Arial, sans-serif; background: #f4f4f4; }
+.container { max-width: 600px; margin: 40px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #0001; padding: 32px; }
+h1 { color: #175ba0; }
+h2 { color: #90c41f; }
+h3 { color: #ff82e2; }
+.resaltado { background: #f70d25; padding: 2px 6px; border-radius: 4px; }
+.reto { background: #247bbe; border-left: 4px solid #2980b9; padding: 12px; margin-top: 24px; }
